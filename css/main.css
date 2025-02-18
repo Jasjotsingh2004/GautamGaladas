@@ -1221,6 +1221,9 @@
  .no-cssanimations .animate-intro {
    opacity: 1;
  }
+ .intro-text{
+  color: white;
+ }
  
  
  /* ===================================================================
@@ -2072,7 +2075,7 @@
  .logo {
    width: 50px;
    height: 50px;
-   background-color: #ddd;
+   background-color: #cc2020;
    border-radius: 50%;
    display: flex;
    align-items: center;
